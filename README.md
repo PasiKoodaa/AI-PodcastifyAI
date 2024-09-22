@@ -81,6 +81,6 @@ https://github.com/user-attachments/assets/87733368-b1fe-476b-b6b2-5fd85685d069
 ## Acknowledgments
 
 - KoboldCPP for dialogue generation: https://github.com/LostRuins/koboldcpp
-- StyleTTS2 API for text-to-speech conversion: https://github.com/NeuralVox/StyleTTS2
+- StyleTTS2 API for text-to-speech conversion: https://github.com/NeuralVox/StyleTTS2 (At the moment this is really hard to get to work on Windows)
 - All other open-source libraries used in this project
 
