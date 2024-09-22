@@ -2,6 +2,12 @@
 
 AI PodcastifyAI is an application that transforms scientific papers and web content into engaging podcast-style conversations using artificial intelligence. This tool leverages advanced language models and text-to-speech technology to create informative and accessible audio content from complex textual information.
 
+
+
+https://github.com/user-attachments/assets/87733368-b1fe-476b-b6b2-5fd85685d069
+
+
+
 ## Features
 
 - **Text Input**: Enter scientific text or a webpage URL directly into the application.
@@ -17,7 +23,7 @@ AI PodcastifyAI is an application that transforms scientific papers and web cont
 - tkinter
 - requests
 - BeautifulSoup4
-- StyleTTS2
+- StyleTTS2 API
 - scipy
 - pydub
 - numpy
@@ -36,18 +42,20 @@ AI PodcastifyAI is an application that transforms scientific papers and web cont
    pip install -r requirements.txt
    ```
 
-3. Ensure you have KoboldCPP running locally on port 5001.
-
-4. Prepare voice samples named `melinda_voice.wav` and `steve_voice.wav` for the two speakers.
+5. Prepare voice samples named `melinda_voice.wav` and `steve_voice.wav` for the two speakers.
 
 ## Usage
 
-1. Run the application:
+1. Ensure you have KoboldCPP running locally on port 5001.
+
+2. Ensure you have StyleTTS2 APi running.
+
+3. Run the application:
    ```
    python main.py
    ```
 
-2. In the GUI:
+5. In the GUI:
    - Enter the text of a scientific paper or a webpage URL in the input area.
    - Click "Process" to generate the podcast dialogue.
    - Once processing is complete, click "Create Audiobook" to generate the MP3 file.
@@ -69,7 +77,7 @@ AI PodcastifyAI is an application that transforms scientific papers and web cont
 
 ## Acknowledgments
 
-- KoboldCPP for dialogue generation
-- StyleTTS2 for text-to-speech conversion
+- KoboldCPP for dialogue generation: https://github.com/LostRuins/koboldcpp
+- StyleTTS2 API for text-to-speech conversion: https://github.com/NeuralVox/StyleTTS2
 - All other open-source libraries used in this project
 
