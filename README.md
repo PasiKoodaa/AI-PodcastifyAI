@@ -44,7 +44,7 @@ AI PodcastifyAI is an application that transforms scientific papers and web cont
 
 1. Run the application:
    ```
-   python ai_podcastify.py
+   python main.py
    ```
 
 2. In the GUI:
