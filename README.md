@@ -46,6 +46,9 @@ https://github.com/user-attachments/assets/87733368-b1fe-476b-b6b2-5fd85685d069
 
 ## Usage
 
+![loonggg](https://github.com/user-attachments/assets/59f02661-0342-4018-8fcc-947b91ea4da8)
+
+
 1. Ensure you have KoboldCPP running locally on port 5001.
 
 2. Ensure you have StyleTTS2 APi running.
