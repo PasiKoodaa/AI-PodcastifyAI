@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/275b873d-a536-4dea-a14c-f995105ed94f
 
 ## Requirements
 
-- Python 3.7+
+- Python 3.8+
 - tkinter
 - requests
 - BeautifulSoup4
@@ -46,7 +46,7 @@ https://github.com/user-attachments/assets/275b873d-a536-4dea-a14c-f995105ed94f
    pip install -r requirements.txt
    ```
 
-5. Prepare voice samples named `melinda_voice.wav` and `steve_voice.wav` for the two speakers.
+5. Prepare voice samples named `melinda_voice.wav` and `steve_voice.wav` for the two speakers abd put them in the same folder where the file "main.py" is.
 
 ## Usage
 
