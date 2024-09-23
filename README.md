@@ -51,19 +51,17 @@ https://github.com/user-attachments/assets/87733368-b1fe-476b-b6b2-5fd85685d069
 
 1. Ensure you have KoboldCPP running locally on port 5001.
 
-2. Ensure you have StyleTTS2 APi running.
-
-3. Run the application:
+2. Run the application:
    ```
    python main.py
    ```
 
-5. In the GUI:
+3. In the GUI:
    - Enter the text of a scientific paper or a webpage URL in the input area.
    - Click "Process" to generate the podcast dialogue.
    - Once processing is complete, click "Create Audiobook" to generate the MP3 file.
 
-3. The resulting audiobook will be saved as `audiobook.mp3` in the same directory.
+4. The resulting audiobook will be saved as `audiobook.mp3` in the same directory.
 
 ## How It Works
 
