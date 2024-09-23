@@ -1,11 +1,15 @@
 # AI PodcastifyAI
 
-AI PodcastifyAI is an application that transforms scientific papers and web content into engaging podcast-style conversations using artificial intelligence. This tool leverages advanced language models and text-to-speech technology to create informative and accessible audio content from complex textual information.
+AI PodcastifyAI is an application that transforms scientific papers and web content into engaging podcast-style conversations using artificial intelligence. This tool leverages advanced language models and text-to-speech technology to create informative and accessible audio content from complex textual information. This is poor man's version of Google's NotebookLM AI Podcast.
 
 
 
 https://github.com/user-attachments/assets/87733368-b1fe-476b-b6b2-5fd85685d069
 
+
+
+
+https://github.com/user-attachments/assets/275b873d-a536-4dea-a14c-f995105ed94f
 
 
 ## Features
